@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+  color: #7777777;
+  background:#77777;
+  width:100%;
+  background:#515356;
+}
+
+
+header {
+  
+  text-align: center;
+  width: 88%;
+  padding: 20px;
+  margin: 20px;
+  margin: 0 auto;
+  color:black;
+  background:#ebebeb;
+}
+
+
